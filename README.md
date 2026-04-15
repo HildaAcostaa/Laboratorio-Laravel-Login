@@ -1,38 +1,25 @@
 📘 Laravel Lab – Login System
 👤 Autor: Hilda Acosta
 
-Elaborado por: Estudiante de Programación
-
 🧰 1. Prerrequisitos del entorno
 
-Para la ejecución de este laboratorio se requiere el siguiente ecosistema de desarrollo:
+Para ejecutar este laboratorio se requiere el siguiente ecosistema de desarrollo:
 
 🖥️ Tecnologías base
 🐘 PHP >= 8.0
 📦 Composer (última versión estable)
-🚀 Laravel Installer o creación con:
+🚀 Laravel Installer o creación del proyecto con:
 laravel new
 composer create-project
-🌐 Servidor local:
+🌐 Servidor local
 WAMP / XAMPP / Laragon
-🧱 Servidor web:
 Apache
-🗄️ Base de datos:
+🗄️ Base de datos
 MySQL / MariaDB en funcionamiento
-🧑‍💻 Editor recomendado:
+🧑‍💻 Herramientas recomendadas
 Visual Studio Code
-🟩 Node.js (NPM):
-No fue necesario para la ejecución básica del laboratorio
-💻 Sistema operativo:
-Windows
-🏗️ 2. Instalación del proyecto (Flujo de comandos)
-📌 Crear proyecto Laravel
-laravel new labLaravelLogin --prompt
-📌 Entrar al proyecto
-cd labLaravelLogin
-📌 Ejecutar servidor local
-php artisan serve
-🧠 3. Arquitectura MVC en Laravel
+🟩 Node.js + NPM (opcional para este laboratorio)
+💻 Sistema operativo: Windows
 
 Laravel sigue el patrón MVC (Model - View - Controller):
 
